@@ -23,4 +23,5 @@ Passionate about cloud infrastructure hardening, deployment automation, security
 ### Connect
 
 * **LinkedIn:** [linkedin.com/in/abdoul-traore-6923682b4](https://www.linkedin.com/in/abdoul-traore-6923682b4/)
-* **Email:** contact@atraore.dev
+* **Email:** abdoulaziz.traore.pro@gmail.com
+
